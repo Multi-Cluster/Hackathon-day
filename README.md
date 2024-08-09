@@ -136,8 +136,8 @@ You can either use the bastion provided above or use your local machine for the 
 ### OpenShift Console Connection Details
 | Cluster | Console URL | Username | Password |
 | ------- | ----------- | -------- | -------- |
-| On-Prem |  https://console-openshift-console.apps.rosa-5vnvb.67s3.p1.openshiftapps.com | *your team name* | TBA |
-| AWS Melbourne | https://console-openshift-console.apps.rosa-kzp2h.r8gx.p1.openshiftapps.com | *your team name* | TBA |
+| On-Prem |  https://console-openshift-console.apps.rosa-mpk99.np8t.p1.openshiftapps.com | *your team name* | TBA |
+| AWS Melbourne | https://console-openshift-console.apps.rosa-dtm49.9ha5.p1.openshiftapps.com | *your team name* | TBA |
 | AWS Sydney | https://console-openshift-console.apps.rosa-s2k46.u9xx.p1.openshiftapps.com | *your team name* | TBA |
 | AWS Singapore | https://console-openshift-console.apps.rosa-cfrjp.m2lq.p1.openshiftapps.com | *your team name* | TBA |
 
