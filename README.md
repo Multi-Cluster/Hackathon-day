@@ -128,7 +128,7 @@ You can either use the bastion provided above or use your local machine for the 
 
 | Host | SSH command | Password |
 | ---- | ----------- | -------- |
-| On-Prem Bastion | ssh userX@ec2-13-229-222-30.ap-southeast-1.compute.amazonaws.com | TBA |
+| On-Prem Bastion | ssh userX@ec2-54-179-185-86.ap-southeast-1.compute.amazonaws.com | TBA |
 | Tier 1 Bastion | ssh userX@ec2-18-141-175-68.ap-southeast-1.compute.amazonaws.com | TBA |
 | Tier 2 Bastion | ssh userX@ec2-13-50-225-171.eu-north-1.compute.amazonaws.com | TBA |
 | Tier 3 Bastion | ssh userX@ec2-13-48-126-6.eu-north-1.compute.amazonaws.com | TBA |
