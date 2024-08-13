@@ -170,7 +170,7 @@ The ``./online-boutique/OpenShift`` directory is where you will do all your work
 │       │   └── frontend.yaml
 │       ├── loadgenerator
 │       │   └── loadgenerator.yaml
-│       ├── tier2                                  <= All deployment artifacts for Tier 1 of the application
+│       ├── tier2                                  <= All deployment artifacts for Tier 2 of the application
 │       │   ├── adservice.yaml
 │       │   ├── cartservice.yaml
 │       │   ├── checkoutservice.yaml
@@ -179,7 +179,7 @@ The ``./online-boutique/OpenShift`` directory is where you will do all your work
 │       │   ├── recommendationservice.yaml
 │       │   ├── redis.yaml
 │       │   └── shippingservice.yaml
-│       └── tier3                                  <= All deployment artifacts for Tier 1 of the application
+│       └── tier3                                  <= All deployment artifacts for Tier 3 of the application
 │           ├── emailservice.yaml
 │           └── paymentservice.yaml
 ├── README.md
