@@ -130,16 +130,16 @@ You can either use the bastion provided above or use your local machine for the 
 | ---- | ----------- | -------- |
 | On-Prem Bastion | ssh userX@ec2-54-179-185-86.ap-southeast-1.compute.amazonaws.com | TBA |
 | Tier 1 Bastion | ssh userX@ec2-18-141-175-68.ap-southeast-1.compute.amazonaws.com | TBA |
-| Tier 2 Bastion | ssh userX@ec2-13-50-225-171.eu-north-1.compute.amazonaws.com | TBA |
-| Tier 3 Bastion | ssh userX@ec2-13-48-126-6.eu-north-1.compute.amazonaws.com | TBA |
+| Tier 2 Bastion | ssh userX@ec2-18-141-212-211.ap-southeast-1.compute.amazonaws.com | TBA |
+| Tier 3 Bastion | ssh userX@ec2-18-118-0-27.us-east-2.compute.amazonaws.com | TBA |
 
 ### OpenShift Console Connection Details
 | Cluster | Console URL | Username | Password |
 | ------- | ----------- | -------- | -------- |
 | On-Prem |  https://console-openshift-console.apps.rosa-mpk99.np8t.p1.openshiftapps.com | *your team name* | TBA |
 | AWS Melbourne | https://console-openshift-console.apps.rosa-dtm49.9ha5.p1.openshiftapps.com | *your team name* | TBA |
-| AWS Sydney | https://console-openshift-console.apps.rosa-s2k46.u9xx.p1.openshiftapps.com | *your team name* | TBA |
-| AWS Singapore | https://console-openshift-console.apps.rosa-cfrjp.m2lq.p1.openshiftapps.com | *your team name* | TBA |
+| AWS Sydney | https://console-openshift-console.apps.rosa-48c5l.m01r.p1.openshiftapps.com | *your team name* | TBA |
+| AWS Singapore | https://console-openshift-console.apps.rosa-fxg5h.tl3g.p1.openshiftapps.com | *your team name* | TBA |
 
 
 ## Getting Set Up to Start the Hackathon
