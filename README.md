@@ -1,4 +1,4 @@
-# Red Hat Service Interconnect - February APAC Hackathon
+# Red Hat Service Interconnect - August IBM Hackathon
 
 ## Background
 
